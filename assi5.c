@@ -81,5 +81,5 @@ int main(void){
  
   max();
   min();
-  ascending_order();
+  //ascending_order();
 }
